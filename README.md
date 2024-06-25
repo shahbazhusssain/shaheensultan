@@ -1,2 +1,3 @@
 # shaheensultan
-this is my first repositry
+this is my first git repositry
+shahbaz hussain
